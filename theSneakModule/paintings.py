@@ -1,0 +1,1 @@
+paintingsList = 'TheMonaLisa' ; 'StarryNight'; 'TheScream'; 'Guernica'; 'ThreeMusicians'; 'GirlWithApearlEarring'; 'The Kiss..'
